@@ -1,6 +1,6 @@
-# songtube
+# SuperYT
 
-A new Flutter project.
+SuperYT is a fork of SongTube-New Flutter app.
 
 ## Getting Started
 
